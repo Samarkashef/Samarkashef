@@ -6,7 +6,7 @@ Here’s a visually appealing `README.md` file for your GitHub profile, based on
 # 💼 Samar Kashef
 
 **Industrial Engineer | Data Enthusiast**  
-📍 Abo-Kabir, Sharkia, Egypt  
+📍  Sharkia, Egypt  
 📧 freesamarmasa@gmail.com  
 📱 +201009563557  
 
