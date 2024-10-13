@@ -13,9 +13,11 @@ Here’s a visually appealing `README.md` file for your GitHub profile, based on
 ---
 
 ## 👋 About Me
-I am an **Industrial Engineer** with a passion for problem-solving, supply chain management, and data analysis. I recently completed my **Master of Science in Industrial Engineering** from Zagazig University, with a strong focus on process improvement and production planning. 
+I am an **Industrial Engineer** with a passion for problem-solving, supply chain management, and data analysis.
+ I recently completed my **Master of Science in Industrial Engineering** from Zagazig University, with a strong focus on process improvement and production planning. 
 
-Currently, I am exploring the world of **data science**, with experience in **Python**, **SQL**, and various problem-solving techniques. My goal is to leverage my engineering background to deliver data-driven solutions in real-world industries.
+Currently, I am exploring the world of **data science**, with experience in **Python**, **SQL**, and various problem-solving techniques.
+ My goal is to leverage my engineering background to deliver data-driven solutions in real-world industries.
 
 ---
 
